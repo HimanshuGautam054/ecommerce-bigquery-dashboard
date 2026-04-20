@@ -55,7 +55,7 @@ Public dataset used:
 
 
 ## 🔗 Live Dashboard
-[https://your-link-here](https://datastudio.google.com/u/0/reporting/f8a3f889-d2f9-44f6-a472-e0add0083d52/page/krevF/edit)
+[https://dashboard](https://datastudio.google.com/u/0/reporting/f8a3f889-d2f9-44f6-a472-e0add0083d52/page/krevF/edit)
 
 ---
 
